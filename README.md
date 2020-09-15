@@ -1,6 +1,10 @@
-<!DOCTYPE html>
 <html>
-  <body>
-    <h1>BIO DATA</h1>
-  </body>
-  </html>
+  <head>
+    <title>RESUME</title>
+</html>
+<body>
+  <center>
+    <h1>
+      <u>My Rusume </u>
+      </center>
+    
