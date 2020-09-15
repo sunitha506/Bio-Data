@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>RESUME</title>
+    <title> RESUME </title>
 </html>
 <body>
   <center>
